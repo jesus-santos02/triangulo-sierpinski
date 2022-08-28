@@ -1,0 +1,16 @@
+D:\Archivos\INFORMATICA\PRACTICAS\PROGRAMACION\C#\TrianguloSierpinski\TrianguloSierpinski\bin\Debug\net5.0\TrianguloSierpinski.exe
+D:\Archivos\INFORMATICA\PRACTICAS\PROGRAMACION\C#\TrianguloSierpinski\TrianguloSierpinski\bin\Debug\net5.0\TrianguloSierpinski.deps.json
+D:\Archivos\INFORMATICA\PRACTICAS\PROGRAMACION\C#\TrianguloSierpinski\TrianguloSierpinski\bin\Debug\net5.0\TrianguloSierpinski.runtimeconfig.json
+D:\Archivos\INFORMATICA\PRACTICAS\PROGRAMACION\C#\TrianguloSierpinski\TrianguloSierpinski\bin\Debug\net5.0\TrianguloSierpinski.runtimeconfig.dev.json
+D:\Archivos\INFORMATICA\PRACTICAS\PROGRAMACION\C#\TrianguloSierpinski\TrianguloSierpinski\bin\Debug\net5.0\TrianguloSierpinski.dll
+D:\Archivos\INFORMATICA\PRACTICAS\PROGRAMACION\C#\TrianguloSierpinski\TrianguloSierpinski\bin\Debug\net5.0\ref\TrianguloSierpinski.dll
+D:\Archivos\INFORMATICA\PRACTICAS\PROGRAMACION\C#\TrianguloSierpinski\TrianguloSierpinski\bin\Debug\net5.0\TrianguloSierpinski.pdb
+D:\Archivos\INFORMATICA\PRACTICAS\PROGRAMACION\C#\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net5.0\TrianguloSierpinski.csproj.AssemblyReference.cache
+D:\Archivos\INFORMATICA\PRACTICAS\PROGRAMACION\C#\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net5.0\TrianguloSierpinski.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\INFORMATICA\PRACTICAS\PROGRAMACION\C#\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net5.0\TrianguloSierpinski.AssemblyInfoInputs.cache
+D:\Archivos\INFORMATICA\PRACTICAS\PROGRAMACION\C#\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net5.0\TrianguloSierpinski.AssemblyInfo.cs
+D:\Archivos\INFORMATICA\PRACTICAS\PROGRAMACION\C#\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net5.0\TrianguloSierpinski.csproj.CoreCompileInputs.cache
+D:\Archivos\INFORMATICA\PRACTICAS\PROGRAMACION\C#\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net5.0\TrianguloSierpinski.dll
+D:\Archivos\INFORMATICA\PRACTICAS\PROGRAMACION\C#\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net5.0\ref\TrianguloSierpinski.dll
+D:\Archivos\INFORMATICA\PRACTICAS\PROGRAMACION\C#\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net5.0\TrianguloSierpinski.pdb
+D:\Archivos\INFORMATICA\PRACTICAS\PROGRAMACION\C#\TrianguloSierpinski\TrianguloSierpinski\obj\Debug\net5.0\TrianguloSierpinski.genruntimeconfig.cache
